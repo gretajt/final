@@ -9,3 +9,5 @@ It also demands the development and implementation of new transformative justice
 I hope these books can be informative for the movement.
 
 8 of the 10 titles are available as e-books. Of those 8 e-book titles, 5 are available for free as of June 2020.
+
+Link to published site: https://gretajt.github.io/final/
